@@ -1,0 +1,7 @@
+%%writefile test.cpp
+[before code]
+
+
+!g++ test.cpp -o test
+!./test
+[to run code]
